@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-03-01-zessin-jurek-mechelen.md",
+                "file": "news.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-03-01-zessin-jurek-mechelen"
+              "title": "Backlinks for news"
             }
           },
           {
@@ -199,12 +199,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-03-01-zessin-jurek-mechelen.md",
+                "file": "news.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-03-01-zessin-jurek-mechelen"
+              "title": "Outgoing links from news"
             }
           },
           {
@@ -228,13 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-03-01-zessin-jurek-mechelen.md",
+                "file": "news.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-03-01-zessin-jurek-mechelen"
+              "title": "Outline of news"
             }
           }
         ]
@@ -254,8 +254,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14ef52afc7535762",
+  "active": "61a5c0bf67706ad5",
   "lastOpenFiles": [
+    "_posts/2024-03-01-zessin-jurek-mechelen.md",
     "_posts/sed7BPVsM",
     "_site/assets/images/2024-03-01-zessin-jurek-mechelen.jpg",
     "assets/images/2024-03-01-zessin-jurek-mechelen.jpg",
@@ -300,7 +301,6 @@
     "_posts/2024-09-16-frankl-budapest.md",
     "_posts/2024-11-04-cretu-refugee-education.md",
     "_site/assets/documents/Refugee-Protection-in-the-Plural_Draft-program_27-May.pdf",
-    "_site/assets/documents",
-    "assets/documents/Refugee-Protection-in-the-Plural_Draft-program_27-May.pdf"
+    "_site/assets/documents"
   ]
 }
