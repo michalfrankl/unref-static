@@ -11,4 +11,4 @@ On February 8, 2023, at the invitation of the European University Viadrina in Fr
 
 For more please click [here](https://www.pol-int.org/pl/wydarzenia/poland-a-country-of-refugees-or-also-a-country-of-refuge-historiographical-paradigms-of-migration-in-poland)
 
-![](/assets/images/csm_ZIP-Logo_5dcedfb272.jpg)
+![](../../../../assets/images/csm_ZIP-Logo_5dcedfb272.jpg)

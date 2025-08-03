@@ -12,4 +12,4 @@ Doina Anca Cretu, the member of the _Unlikely refuge?_ ERC research project, pub
 
 For the full text of the article in pdf please visit the [website](http://www.fondation-pierredubois.ch/wp-content/uploads/2020/12/2020-no11-Cretu-5.pdf) of the foundation.
 
-![](/assets/images/2-1024x536.jpg)
+![](../../../../assets/images/2-1024x536.jpg)

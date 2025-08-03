@@ -12,4 +12,4 @@ Michal Frankl and Lidia Zessin-Jurek (_Unlikely Refuge?_) co-authored a short ar
 
 You can access it [here](https://denikn.cz/711954/zoufala-situace-uprchliku-na-polsko-beloruskem-pomezi-vyvolava-tisnive-vzpominky-na-predpekli-v-roce-1939/).
 
-![](/assets/images/DenikN.png)
+![](../../../../assets/images/DenikN.png)

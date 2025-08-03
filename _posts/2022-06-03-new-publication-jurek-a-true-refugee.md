@@ -12,4 +12,4 @@ In the Western public imagination, there is a certain image of a refugee deservi
 
 To access it, please click [here](https://www.migracje.uw.edu.pl/publikacje/who-is-a-true-refugee-on-the-limits-of-polish-hospitality/) or download it by clicking on the image below.
 
-[![](/assets/images/0001-724x1024.jpg)](https://www.unlikely-refuge.eu/wp-content/uploads/2022/06/Spotlight-JUNE-2022.pdf)
+[![](../../../../assets/images/0001-724x1024.jpg)](https://www.unlikely-refuge.eu/wp-content/uploads/2022/06/Spotlight-JUNE-2022.pdf)

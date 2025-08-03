@@ -16,11 +16,11 @@ You can read the abstracts of their papers below. For details, please visit the 
 
 <figure>
 
-![](/assets/images/4f123eb1-6cc5-4a23-8213-a1680e882550)
+![](../../../../assets/images/4f123eb1-6cc5-4a23-8213-a1680e882550)
 
 <figcaption>
 
-![](/assets/images/da9ae2c1-69ba-4f17-be5f-ea2636c71d27)
+![](../../../../assets/images/da9ae2c1-69ba-4f17-be5f-ea2636c71d27)
 
 </figcaption>
 
@@ -32,10 +32,10 @@ During the First World War, multiple invasions in the Eastern and the Southern p
 
 This paper explores the experience of refugee women. Here, I treat camps as gendered spaces of _refugeedom_; namely, I argue that they were sites of negotiation and reinforcement of gender relations. In this context, the paper attempts to explore different facets of women’s experiences in Austria-Hungary’s refugee camps during the First World War: first, as _confined refugees_ in the broader policy of displacement management. Second, as _integrated citizens_ in frameworks of refugee assistance (e.g. nurses and teachers). Third, as _excluded civilians_ when perceived as socially dangerous individuals (e.g. prostitutes).
 
-![](/assets/images/thumbnail_IMG_6933-1024x769.jpg)
+![](../../../../assets/images/thumbnail_IMG_6933-1024x769.jpg)
 
 **Lidia Zessin-Jurek**: _"Shall We Rejoin the Nation?" - Historiography on Post-WWI Refugee Movement in Poland between 'Native' and 'National' Paradigm_.
 
 The paper engages with the historiographical paradigms informing the topic of WWI-related refugeedom across the Polish lands, placing it in a broader perspective of the local postwar migrations. The central question revolves around the problem of semantics surrounding the historiography on migration movements in the region. In this context, it specifically interrogates the terminology referring to the internal migration after the war conflicts. “Return migration” or “re-emigration” after World War I features in the historical literature on Poland under different terms than “repatriation” after World War II because in the former case the majority of migrants into new Poland were seen to be only _native_ (sharing a geographical place of origin, _biezency_, Jews), but not necessarily _national_ — that is, identifiable members of the Polish nation or considered to be easily assimilable groups. Thus, the paper reflects on the significance of migrants’ ethnicity in the formulation of both the refugee policy of an era and later historiographical interpretative schemes. 
 
-![](/assets/images/indeks7-1024x768.jpg)
+![](../../../../assets/images/indeks7-1024x768.jpg)

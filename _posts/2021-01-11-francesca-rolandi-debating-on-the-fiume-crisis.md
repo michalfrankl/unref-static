@@ -17,4 +17,4 @@ For more information please visit the [CAS SEE website](http://cas.uniri.hr/cas-
 Meeting ID: 883 7993 4150  
 Passcode: 543472
 
-[![](/assets/images/Reill.png)](http://cas.uniri.hr/cas-see-seminars-with-guests-dominique-kirchner-reill/)
+[![](../../../../assets/images/Reill.png)](http://cas.uniri.hr/cas-see-seminars-with-guests-dominique-kirchner-reill/)

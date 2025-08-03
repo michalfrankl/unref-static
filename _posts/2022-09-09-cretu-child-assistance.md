@@ -8,7 +8,7 @@ categories:
 coverImage: "central-european-history.jpg"
 ---
 
-![Central European History](/assets/images/central-european-history.jpg)
+![Central European History](../../../../assets/images/central-european-history.jpg)
 
 Read the new publication by UnRef's research fellow Doina Anca Cretu entitled _Child Assistance and the Making of Modern Refugee Camps in Austria-Hungary during the First World War_.
 

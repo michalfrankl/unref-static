@@ -8,7 +8,7 @@ categories:
 coverImage: "441925.jpg"
 ---
 
-![Foto produktu](/assets/images/bb0dccc878a648b33a5892090f99c94e.jpg)
+![Foto produktu](../../../../assets/images/bb0dccc878a648b33a5892090f99c94e.jpg)
 
 The Principal Investigator of the ERC Project _Unlikely Refuge?_ Michal Frankl has published his book entitled _Občané země nikoho. Uprchlíci a pohyblivé hranice středovýchodní Evropy 1938-1939_ (in Czech, _Citizens of No Man's Land. Refugees and Moving Borders of East Central Europe, 1938-1939_).
 

@@ -8,7 +8,7 @@ categories:
 coverImage: "0001-1-scaled.jpg"
 ---
 
-![](/assets/images/Wr3.png)
+![](../../../../assets/images/Wr3.png)
 
 On 28-29 September 2021, a conference took place in Wrocław entitled _"Conflict-Stabilization-Assimilation? Consequences of migration in the life of inhabitants of Lower Silesia."_
 
@@ -22,7 +22,7 @@ For more details please visit the [Institute of National Remembrance](https://wr
 
 <figure>
 
-[![](/assets/images/0002-1-958x1024.jpg)](https://wroclaw.ipn.gov.pl/wro/aktualnosci/119126,Miedzynarodowa-konferencja-naukowa-Konflikt-stabilizacja-asymilacja-Konsekwencje.html)
+[![](../../../../assets/images/0002-1-958x1024.jpg)](https://wroclaw.ipn.gov.pl/wro/aktualnosci/119126,Miedzynarodowa-konferencja-naukowa-Konflikt-stabilizacja-asymilacja-Konsekwencje.html)
 
 <figcaption>
 
@@ -34,7 +34,7 @@ Conference Program
 
 <figure>
 
-[![](/assets/images/0001-1-592x1024.jpg)](https://wroclaw.ipn.gov.pl/wro/aktualnosci/119126,Miedzynarodowa-konferencja-naukowa-Konflikt-stabilizacja-asymilacja-Konsekwencje.html)
+[![](../../../../assets/images/0001-1-592x1024.jpg)](https://wroclaw.ipn.gov.pl/wro/aktualnosci/119126,Miedzynarodowa-konferencja-naukowa-Konflikt-stabilizacja-asymilacja-Konsekwencje.html)
 
 <figcaption>
 

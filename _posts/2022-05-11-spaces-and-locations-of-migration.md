@@ -12,6 +12,6 @@ The international conference Spaces and Locations of Migration, organized by the
 
 Please visit the official [website](https://www.ruralhistory.at/de/veranstaltungen/workshops-konferenzen/spaces-and-locations-of-migration) for details and the full program
 
-![](/assets/images/0001-1024x576.jpg)
+![](../../../../assets/images/0001-1024x576.jpg)
 
-![](/assets/images/0002-1024x576.jpg)
+![](../../../../assets/images/0002-1024x576.jpg)

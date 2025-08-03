@@ -10,7 +10,7 @@ coverImage: "Refugees.png"
 
 <figure>
 
-[![](/assets/images/Citizenship-724x1024.jpg)](https://www.unlikely-refuge.eu/wp-content/uploads/2019/11/Citizenship_until_further_notice_program.pdf)
+[![](../../../../assets/images/Citizenship-724x1024.jpg)](https://www.unlikely-refuge.eu/wp-content/uploads/2019/11/Citizenship_until_further_notice_program.pdf)
 
 <figcaption>
 

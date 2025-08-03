@@ -16,4 +16,4 @@ Masaryk Institute and Archive's conference hall (Gabčíkova 2362, Prague)
 
 Online: [Zoom](https://us02web.zoom.us/j/82961863362)
 
-![](/assets/images/frankl-809x1024.png)
+![](../../../../assets/images/frankl-809x1024.png)

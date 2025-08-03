@@ -12,4 +12,4 @@ We tend to push them aside on a daily basis, but the faraway conflicts, conseque
 
 The text was reprinted in the 'Public Seminar' of the New School of Social Research (for full access click [here](https://publicseminar.org/2023/04/held-hostage-to-ones-values/)), and has previously appeared in English in the 'Democracy Seminar'; as well as in [Polish](https://www.bbng.org/zakladnicy-wlasnych-wartosci) and [Italian](https://micromegaedizioni.net/2023/03/03/i-rifugiati-al-confine-fra-bielorussia-e-polonia/).
 
-![](/assets/images/latestps.jpeg)
+![](../../../../assets/images/latestps.jpeg)

@@ -7,4 +7,4 @@ categories:
   - "presentations"
 ---
 
-![](/assets/images/seminar_siberian-final-724x1024.jpg)
+![](../../../../assets/images/seminar_siberian-final-724x1024.jpg)

@@ -14,4 +14,4 @@ You can access the event via YouTube and Facebook. The working languages are Slo
 
 For more information, please visit the [website](https://uesa.sav.sk/?q=sk/potom-prisiel-zakon) of the Institute of Ethnology and Social Anthropology of the Slovak Academy of Sciences.
 
-![](/assets/images/potom_prisiel_zakon_medzinarodny_webinar4-1024x576.png)
+![](../../../../assets/images/potom_prisiel_zakon_medzinarodny_webinar4-1024x576.png)

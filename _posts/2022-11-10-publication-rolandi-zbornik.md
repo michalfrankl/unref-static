@@ -14,4 +14,4 @@ This article aims to tackle one of the controversies related to Rijeka’s post-
 
 You can access the full text [here](https://hrcak.srce.hr/file/413004).
 
-![](/assets/images/DSCN4052-1024x862.jpg)
+![](../../../../assets/images/DSCN4052-1024x862.jpg)

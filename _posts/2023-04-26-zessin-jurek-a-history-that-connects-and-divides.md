@@ -14,4 +14,4 @@ Lidia Zessin-Jurek’s article discusses how various Polish memory frames have a
 
 You can access the [full version](https://www.cultures-of-history.uni-jena.de/debates/poland/a-history-that-connects-and-divides-ukrainian-refugees-and-poland-in-the-face-of-russias-war) at the Cultures of History Forum.
 
-![](/assets/images/csm_Ukrainians_are_fleeing_Russian_aggression._Przemysl__Poland_IMG_4215__51924772064__11241bf311.jpg)
+![](../../../../assets/images/csm_Ukrainians_are_fleeing_Russian_aggression._Przemysl__Poland_IMG_4215__51924772064__11241bf311.jpg)

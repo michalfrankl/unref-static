@@ -11,4 +11,4 @@ The UnRef's PI Michal Frankl was interviewed by a Czech-language online magazine
 
 For the full interview led by [Judita Matyášová](https://www.reporterpremium.cz/author/judita-matyasova) in Czech please click [here](https://www.reporterpremium.cz/a/pC6hu/tisice-uprchliku-z-dnesni-ukrajiny-tu-byly-uz-za-prvni-svetove-valky).
 
-[![](/assets/images/reporter.png)](https://www.reporterpremium.cz/a/pC6hu/tisice-uprchliku-z-dnesni-ukrajiny-tu-byly-uz-za-prvni-svetove-valky)
+[![](../../../../assets/images/reporter.png)](https://www.reporterpremium.cz/a/pC6hu/tisice-uprchliku-z-dnesni-ukrajiny-tu-byly-uz-za-prvni-svetove-valky)

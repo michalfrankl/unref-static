@@ -23,4 +23,4 @@ The proposed paper aims to deal with the issue of the revocation of citizenship 
 
 In my presentation based on relevant legislation, archives and existing historical research, I am going to focus on the revocation of the citizenship of Greek refugees to Czechoslovakia from the perspective of state politics. Not only that many of them turned stateless amidst the ideological conflict between the East and the West, but also the Czechoslovak state failed for a long time to acknowledge their status of political asylants or persons without citizenship. Although the prospect of naturalization could provide Greek refugees with undeniable practical and material benefits, the status of statelessness was favoured by many, especially those who planned their repatriation to Greece or emigration.
 
-![](/assets/images/cover-page-001-724x1024.jpg)
+![](../../../../assets/images/cover-page-001-724x1024.jpg)

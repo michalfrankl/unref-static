@@ -16,7 +16,7 @@ The first took place in the context of World War I, when in the aftermath after 
 World War II as the “most brutal rupture” caused Polish lands to become a site of immense flight migration, which was precisely characterized by the dissolution of state structures. Nevertheless, the refugee movement had to cope with the conditions of statelessness, relying on understudied informal local support networks and internal migrants' own agency.
 
 
-![](/assets/images/20240316_173505-min-1-1024x768.jpg)
+![](../../../../assets/images/20240316_173505-min-1-1024x768.jpg)
 
 Lidia Zessin-Jurek and Michal Frankl
 
@@ -24,9 +24,9 @@ In the postwar years, after the “westward shift” of its borders, the new Pol
 
 
 
-![](/assets/images/20240316_175319-min-1024x768.jpg)
+![](../../../../assets/images/20240316_175319-min-1024x768.jpg)
     
-![](/assets/images/IMG-20240320-WA0011-1-1024x768.jpg)
+![](../../../../assets/images/IMG-20240320-WA0011-1-1024x768.jpg)
 
 Lidia Zessin-Jurek and Julia Reinke
 

@@ -39,8 +39,8 @@ Within the available means, the organizers will provide travel support and accom
 
 Please send the abstracts of up to 300 words with a short bio (150 words) to [binova@ucl.cas.cz](mailto:binova@ucl.cas.cz) by September 1, 2025. Questions can be directed to [Michal.Frankl.ext@leibniz-gwzo.de](mailto:Michal.Frankl.ext@leibniz-gwzo.de).
 
-![](/assets/images/logo_GWZO_30.jpg)
+![](../../../../assets/images/logo_GWZO_30.jpg)
 
-![](/assets/images/logo_Uni_Innsbruck_Zeitgeschichte.jpg)
+![](../../../../assets/images/logo_Uni_Innsbruck_Zeitgeschichte.jpg)
 
-![](/assets/images/logo_UCL.jpg)
+![](../../../../assets/images/logo_UCL.jpg)

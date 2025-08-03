@@ -7,9 +7,9 @@ categories:
   - "presentations"
 ---
 
-![](/assets/images/holocaust-memory-folder-page-001-1024x361.jpg)
+![](../../../../assets/images/holocaust-memory-folder-page-001-1024x361.jpg)
 
-![](/assets/images/holocaust-memory-folder-page-002-1024x361.jpg)
+![](../../../../assets/images/holocaust-memory-folder-page-002-1024x361.jpg)
 
 International Holocaust Conference: Silence, Speech, Memory, Message, Understanding – After 75 Years | Halle (14-16 November 2019)
 

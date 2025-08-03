@@ -7,8 +7,8 @@ categories:
   - "conferences-and-workshops"
 ---
 
-![](/assets/images/reinventing_refuge_programme_page-0001-724x1024.jpg)
+![](../../../../assets/images/reinventing_refuge_programme_page-0001-724x1024.jpg)
 
-![](/assets/images/reinventing_refuge_programme_page-0002-724x1024.jpg)
+![](../../../../assets/images/reinventing_refuge_programme_page-0002-724x1024.jpg)
 
-![](/assets/images/reinventing_refuge_programme_page-0003-724x1024.jpg)
+![](../../../../assets/images/reinventing_refuge_programme_page-0003-724x1024.jpg)

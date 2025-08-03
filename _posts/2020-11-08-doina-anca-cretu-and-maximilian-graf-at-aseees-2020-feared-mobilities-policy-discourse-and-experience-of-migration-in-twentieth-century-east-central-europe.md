@@ -9,13 +9,13 @@ categories:
 
 Doina Anca Cretu and Maximilian Graf, members of the _Unlikely refuge?_ ERC research project, joined the Annual ASEEES Convention, which took place virtually this year on November 5-8 and 14-15. Together with Sielke Beata Kelner (Leiden University), they formed a panel titled "Feared 'Mobilities': Policy, Discourse, and Experience of Migration in Twentieth-Century East-Central Europe," chaired by Lukas Schemper (Ludwig-Maximilians-University).  
 
-![](/assets/images/ASEEES-1-2-page-003-1024x711.jpg)
+![](../../../../assets/images/ASEEES-1-2-page-003-1024x711.jpg)
 
 The panel focused on both forced and voluntary migration, which during the twentieth century mobilized state institutions or civil societies to assist and protect people on the move in East-Central Europe. At the same time, these ‘mobilities’ generated protracted anxieties that often shaped politics and language of fear, as well as policies of migration control in the region. The panel followed three case studies that engaged with three intertwining themes: (1) state-driven policy-making aimed to contain unwanted groups or curtail migrant influxes or effluxes; (2) social and economic consequences of migration; (3) migrants’ journeys and subjectivities.
 
 Doina Anca Cretu focused on the First World War and conflict-generated forced displacement in the Austro-Hungarian Empire. Cretu’s paper analyzed the case of Roma refugee camps as state policy of containment of an intractably mobile minority. Sielke Kelner and Maximilian Graf explored dimensions of voluntary migration in the last two decades of the Cold War and in the early years after the fall of the ‘Iron Curtain,’ respectively. Graf’s paper investigated the ways Austrian responses to migration changed from the 1970s until the 1990s, from a humanitarian approach to discursive and policy-driven rejection. Kelner’s paper addressed the view from the homeland and the restriction to the freedom of movement. In exploring the case of Romania, Kelner emphasized home state suppression of migration to the West and its effects on migrants’ aspirations and experiences.
 
-![](/assets/images/ASEEES-72-page-002.jpg)
+![](../../../../assets/images/ASEEES-72-page-002.jpg)
 
 #### Full abstracts:
 
@@ -25,7 +25,7 @@ The First World War led to deep humanitarian crises caused by invasions, materia
 
 <figure>
 
-![](/assets/images/20103959.jpg)
+![](../../../../assets/images/20103959.jpg)
 
 <figcaption>
 

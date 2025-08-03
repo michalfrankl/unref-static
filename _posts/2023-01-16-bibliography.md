@@ -14,4 +14,4 @@ You can access the bibliographical database via Zotero by clicking [here](https:
 
 The bibliography is a work-in-progress and will be constantly updated. For a better context, we suggest confering the open-access [thematic issue](https://www.zfo-online.de/portal/index.php/zfo/issue/view/294) of the Journal of East European Studies (ZfO), Vol. 71 No. 4 (2022), that examines, through the eyes of historiography, East Central Europe as a place of refuge.
 
-[![](/assets/images/biblio.png)](https://www.zotero.org/groups/4731282/unlikely_refuge_bibliography/library)
+[![](../../../../assets/images/biblio.png)](https://www.zotero.org/groups/4731282/unlikely_refuge_bibliography/library)

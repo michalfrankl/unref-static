@@ -21,6 +21,6 @@ At first glance, the reception of the Greek Civil War refugees in communist Czec
 
 Taking the analysis to the regional and local level, to Tyrol and Vorarlberg in Austria and the Czechoslovak borderland with Poland, allows for a detailed East-West comparison. How did central authorities communicate with regional actors and how were the refugees received? Which short- and long-term humanitarian measures were taken, and which problems surfaced? What was the role of refugees and their involvement in self-administration? Despite ideologically and nationally conditioned differences, the spatial management of refugees in both states reveals comparable strategies – from provision of care and refugee settlement to security concerns.
 
-- ![](/assets/images/20211030_125027-min-1024x768.jpg)
+- ![](../../../../assets/images/20211030_125027-min-1024x768.jpg)
     
-- ![](/assets/images/20211030_133632-1-1024x576.jpg)
+- ![](../../../../assets/images/20211030_133632-1-1024x576.jpg)

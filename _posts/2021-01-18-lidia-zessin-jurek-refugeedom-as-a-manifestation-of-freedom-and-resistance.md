@@ -13,4 +13,4 @@ Her text is available [online in Polish](http://www.oipc.pl/pliki/Lidia%20Zessin
 
 Lidia Zessin-Jurek, "Uchodźstwo jako manifestacja wolności i oporu na przykładzie relacji polskich Żydów o jesieni 1939 roku," in: _Pola Wolności_, ed. Alicja Bartuś, Oświęcim-Poznań: Wydawnictwo WSB, 2020, pp. 39-58.
 
-![](/assets/images/pola.png)
+![](../../../../assets/images/pola.png)

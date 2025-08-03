@@ -21,7 +21,7 @@ And yet, nostalgia in hindsight made the refugees of the Hungarian numerus claus
 
 <figure>
 
-![](/assets/images/3.-Brno-emlektabla.jpg)
+![](../../../../assets/images/3.-Brno-emlektabla.jpg)
 
 <figcaption>
 

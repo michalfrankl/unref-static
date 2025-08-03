@@ -8,7 +8,7 @@ categories:
   - "presentations"
 ---
 
-[![](/assets/images/podcast.png)](https://soundcloud.com/user-267970745/episode-2-minority-protection-and-population-transfers-in-interwar-europe?si=69ce05ae2588483a87ccecde976bff1a)
+[![](../../../../assets/images/podcast.png)](https://soundcloud.com/user-267970745/episode-2-minority-protection-and-population-transfers-in-interwar-europe?si=69ce05ae2588483a87ccecde976bff1a)
 
 Listen to the second episode of the "Eastern Europe's Minorities in a Century of Change", a podcast series on the history of minorities and minority experiences in twentieth-century Central and Eastern Europe prepared by the BASEES Stud soundcloud.com.
 

@@ -16,4 +16,4 @@ Read more on _[Out of Line, Out of Place: A Global and Local History of World Wa
 
 Mass internment has long been recognized as a defining experience of World War II, but it was a fundamental experience of World War I as well. More than eight million soldiers became prisoners of war, more than a million civilians became internees, and several millions more were displaced from their homes, with many placed in securitized refugee camps. For the first time, _Out of Line, Out of Place_ brings these different camps together in conversation. Rotem Kowner and Iris Rachamimov emphasize that although there were differences among camps and varied logic of internment in individual countries, there were also striking similarities in how camps operated during the Great War.
 
-![](/assets/images/9781501765902-1.jpg)
+![](../../../../assets/images/9781501765902-1.jpg)

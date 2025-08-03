@@ -7,4 +7,4 @@ categories:
   - "presentations"
 ---
 
-![](/assets/images/agnes_kelemen-page-001-1024x724.jpg)
+![](../../../../assets/images/agnes_kelemen-page-001-1024x724.jpg)

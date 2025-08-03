@@ -11,6 +11,6 @@ Maximilian Graf published his article entitled "Humanitarianism with Limits: The
 
 For more please visit the publisher's [website](https://www.vandenhoeck-ruprecht-verlage.com/detail/index/sArticle/57510).
 
-- ![](/assets/images/0001-1-724x1024.jpg)
+- ![](../../../../assets/images/0001-1-724x1024.jpg)
     
-- ![](/assets/images/0002-724x1024.jpg)
+- ![](../../../../assets/images/0002-724x1024.jpg)

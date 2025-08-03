@@ -13,6 +13,6 @@ Anca will present her paper titled "Space, Containment, and Limits of Agency: Re
 
 You can find out more about the workshop on the organizer's [website](https://hait.tu-dresden.de/ext/veranstaltungen/veranstaltung-27781/,https:/migchild.hypotheses.org/workshop-2) or download the program [here](https://www.unlikely-refuge.eu/wp-content/uploads/2021/12/flyer_workshop_final.pdf).
 
-[![](/assets/images/0001-1024x687.jpg)](https://www.unlikely-refuge.eu/wp-content/uploads/2021/12/flyer_workshop_final.pdf)
+[![](../../../../assets/images/0001-1024x687.jpg)](https://www.unlikely-refuge.eu/wp-content/uploads/2021/12/flyer_workshop_final.pdf)
 
-[![](/assets/images/0002-1024x687.jpg)](https://www.unlikely-refuge.eu/wp-content/uploads/2021/12/flyer_workshop_final.pdf)
+[![](../../../../assets/images/0002-1024x687.jpg)](https://www.unlikely-refuge.eu/wp-content/uploads/2021/12/flyer_workshop_final.pdf)

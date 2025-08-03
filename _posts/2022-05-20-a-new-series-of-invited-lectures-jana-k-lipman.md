@@ -7,6 +7,6 @@ categories:
   - "presentations"
 ---
 
-[![](/assets/images/Lipman_Refugee_Camps_in_America_20220601-724x1024.jpg)](https://www.unlikely-refuge.eu/lipman_refugee_camps_in_america_20220601/)
+[![](../../../../assets/images/Lipman_Refugee_Camps_in_America_20220601-724x1024.jpg)](https://www.unlikely-refuge.eu/lipman_refugee_camps_in_america_20220601/)
 
 To download a pdf please click [here](https://www.unlikely-refuge.eu/lipman_refugee_camps_in_america_20220601/) or visit the [Facebook event](https://bit.ly/3G7gAYC).

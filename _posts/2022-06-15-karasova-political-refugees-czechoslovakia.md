@@ -8,7 +8,7 @@ categories:
 coverImage: "Invitation-NK-scaled.jpg"
 ---
 
-![](/assets/images/Invitation-NK-1024x724.jpg)
+![](../../../../assets/images/Invitation-NK-1024x724.jpg)
 
 Please visit the official [website](https://www.dhi.waw.pl/veranstaltungen/vortraege/detail/news/dr-nikola-karasova-loyal-comrades-and-heroic-freedom-fighterspolitical-refugees-to-post-1948-cze.html) of the German Historical Institute Warsaw
 

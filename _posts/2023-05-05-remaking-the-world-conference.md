@@ -12,9 +12,9 @@ The _Unlikely Refuge?_ team will coorganize and participate at the "Remaking the
 
 For more details please visit this [webpage](https://nowkasia.wixsite.com/remaking-the-world).
 
-- ![](/assets/images/Program-2_page-0001-724x1024.jpg)
+- ![](../../../../assets/images/Program-2_page-0001-724x1024.jpg)
     
-- ![](/assets/images/Program-2_page-0002-724x1024.jpg)
+- ![](../../../../assets/images/Program-2_page-0002-724x1024.jpg)
     
 
-![](/assets/images/Poster-724x1024.png)
+![](../../../../assets/images/Poster-724x1024.png)

@@ -12,7 +12,7 @@ The UnRef PI Michal Frankl was invited to give a public lecture titled _Support 
 
 <figure>
 
-![Může jít o obrázek 4 lidem a venkovnímu](/assets/images/279894761_5331468756873540_3168604296023597813_n.jpg)
+![Může jít o obrázek 4 lidem a venkovnímu](../../../../assets/images/279894761_5331468756873540_3168604296023597813_n.jpg)
 
 <figcaption>
 

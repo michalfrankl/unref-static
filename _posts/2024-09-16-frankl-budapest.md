@@ -15,4 +15,4 @@ After introducing the project and its results so far, we will discuss our resear
 
 For the invitation, please visit the [official website](https://szociologia.tk.hu/esemeny/2024/09/michal-frankl-east-central-europe-as-a-place-of-refuge).
 
-![](/assets/images/Frankl_q.jpg)
+![](../../../../assets/images/Frankl_q.jpg)

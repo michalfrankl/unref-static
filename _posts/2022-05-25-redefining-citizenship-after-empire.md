@@ -12,4 +12,4 @@ Together with Ivan Jeličić (University of Rijeka) and Dominique Reill (univers
 
 You can join online on 13 June 2022 (5.00 PM) by registering at [eui.eu/events?id=546813](http://eui.eu/events?id=546813)
 
-[![](/assets/images/Programme-Socioboard-724x1024.jpg)](https://www.unlikely-refuge.eu/wp-content/uploads/2022/05/Programme-Socioboard.pdf)
+[![](../../../../assets/images/Programme-Socioboard-724x1024.jpg)](https://www.unlikely-refuge.eu/wp-content/uploads/2022/05/Programme-Socioboard.pdf)

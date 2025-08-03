@@ -7,6 +7,6 @@ categories:
   - "conferences-and-workshops"
 ---
 
-![](/assets/images/Beyond-Nations-Worshop_-Program_Final_page-0001.jpg)
+![](../../../../assets/images/Beyond-Nations-Worshop_-Program_Final_page-0001.jpg)
 
-![](/assets/images/Beyond-Nations-Worshop_-Program_Final_page-0002.jpg)
+![](../../../../assets/images/Beyond-Nations-Worshop_-Program_Final_page-0002.jpg)

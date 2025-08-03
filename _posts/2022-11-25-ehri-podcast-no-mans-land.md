@@ -14,4 +14,4 @@ In this episode, he talks about a photograph on the cover of a French magazine f
 
 _Release date: 24 November 2022_ | [More about the Podcast Series For the Living and the Dead. Traces of the Holocaust](https://www.ehri-project.eu/ehri-podcast-for-the-living-and-the-dead)
 
-![A Photo from No-Man's Land](/assets/images/5.%20Image%20Photo%20b.png)
+![A Photo from No-Man's Land](../../../../assets/images/5.%20Image%20Photo%20b.png)

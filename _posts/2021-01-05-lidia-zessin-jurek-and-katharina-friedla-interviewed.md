@@ -13,4 +13,4 @@ The _Unlikely Refuge?_ team member Lidia Zessin-Jurek together with Katharina Fr
 
 Please listen to the podcast [available in Polish](https://www.youtube.com/watch?v=kCVEbjQh9eQ&feature=youtu.be&fbclid=IwAR14Hkb4c1f2Iph2hudiGHXv2sQEgLjRkEuDvmJWn9tOo5vJPZtlrA-hk-g) or visit the website of the [Jewish Museum Galicia](https://galiciajewishmuseum.org/en/the-siberian-exile-of-polish-jews-the-fates-of-the-shoah-refugees,1818) for more information in English.
 
-![](/assets/images/Jurek-Friedla-photo-1024x684.jpg)
+![](../../../../assets/images/Jurek-Friedla-photo-1024x684.jpg)

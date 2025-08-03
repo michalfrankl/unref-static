@@ -13,4 +13,4 @@ After pushing back Middle Eastern refugees into the forests on its northern bord
 
 Lidia Zessin-Jurek (_Unlikely Refuge?_) published her powerful comments on the Polish response to the incoming refugees from Ukraine in Eurozine (accessible [here](https://www.eurozine.com/real-refugees-fake-refugees/) in English) and in Gazeta Wyborcza ([here](https://wyborcza.pl/7,75968,28269444,prawdziwe-uchodzczynie-i-falszywi-uchodzcy.html?disableRedirects=true#S.main_topic_2-K.C-B.3-L.1.glowka) in Polish).
 
-![](/assets/images/Obrazek1.jpg)
+![](../../../../assets/images/Obrazek1.jpg)

@@ -7,4 +7,4 @@ categories:
   - "presentations"
 ---
 
-![](/assets/images/vyzkumne-seminare-2020-jaro_mieszkowski-724x1024.jpg)
+![](../../../../assets/images/vyzkumne-seminare-2020-jaro_mieszkowski-724x1024.jpg)

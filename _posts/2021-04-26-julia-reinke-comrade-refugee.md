@@ -7,4 +7,4 @@ categories:
   - "presentations"
 ---
 
-![](/assets/images/MUA_pozvanka-26.-4.-2021-page-001-724x1024.jpg)
+![](../../../../assets/images/MUA_pozvanka-26.-4.-2021-page-001-724x1024.jpg)

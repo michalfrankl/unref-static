@@ -11,4 +11,4 @@ We are pleased to invite you to a book presentation "Syberiada of Polish Jews" b
 
 For more information see the [event webpage](https://www.europa-uni.de/de/struktur/unileitung/pressestelle/viadrina-logbuch/wissenschaft/20210216-syberiade-lidia-zessin-jurek/Beitrag/index.html).
 
-![](/assets/images/Lidia-Feb.png)
+![](../../../../assets/images/Lidia-Feb.png)

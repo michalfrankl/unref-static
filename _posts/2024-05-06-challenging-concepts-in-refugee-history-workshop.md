@@ -14,10 +14,10 @@ The workshop gathered scholars from around the world, working in different time 
 
 For the program please click [here](/assets/documents/Challenging-Concepts-in-Refugee-History-compressed.pdf).
 
-![](/assets/images/20240503_093537-min-1024x768.jpg)
+![](../../../../assets/images/20240503_093537-min-1024x768.jpg)
 
-- ![](/assets/images/20240503_094025-min-1024x768.jpg)
+- ![](../../../../assets/images/20240503_094025-min-1024x768.jpg)
     
-- ![](/assets/images/20240503_133445-min-1024x768.jpg)
+- ![](../../../../assets/images/20240503_133445-min-1024x768.jpg)
     
-- ![](/assets/images/20240503_123112-min-1024x768.jpg)
+- ![](../../../../assets/images/20240503_123112-min-1024x768.jpg)

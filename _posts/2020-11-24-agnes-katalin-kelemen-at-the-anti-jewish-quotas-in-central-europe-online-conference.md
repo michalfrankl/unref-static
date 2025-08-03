@@ -12,7 +12,7 @@ The Unlikely Refuge? team member Ágnes Katalin Kelemen participated at the Onli
 
 For the complete program please visit: [events.ceu.edu](https://events.ceu.edu/2020-11-23/anti-jewish-quotas-central-europe-online-conference)
 
-![](/assets/images/Obrázek1.png)
+![](../../../../assets/images/Obrázek1.png)
 
 **Full abstract by Ágnes Katalin Kelemen**
 
@@ -22,4 +22,4 @@ This paper investigates the dynamics between academic antisemitism, Jewish socia
 
 Based on extensive research on Hungarian Jewish students enrolled abroad and in Hungary in this period, their social background was compared. This paper will present this empirical study which falsifies contemporary assumptions that well-off Jewish families evaded the numerus clausus by emigration and shows that on the contrary, socially more privileged Jews filled up the few places Jews could in Hungarian universities, and the émigrés tended to belong to lower classes.  Yet, the emigration of over 5000 Jewish students could not counterbalance the disastrous impact of the numerus clausus on Jews’ chances for higher education, because even if counting the émigrés, less than half of Jewish secondary school graduates went to university.
 
-![](/assets/images/kvótás-konferencia_2020_nov_24-1.png)
+![](../../../../assets/images/kvótás-konferencia_2020_nov_24-1.png)

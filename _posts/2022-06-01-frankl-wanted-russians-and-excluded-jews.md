@@ -11,4 +11,4 @@ In a recent interview for the online podcast of a popular Czech newspaper Blesk,
 
 For the full video in Czech please click [here](https://bit.ly/3t7FwK2).
 
-![](/assets/images/Obrazek2.png)
+![](../../../../assets/images/Obrazek2.png)

@@ -13,6 +13,6 @@ On 14 October 2021, Ágnes Katalin Kelemen (UnRef) presented her paper entitled 
 
 Traditionally, by “numerus clausus refugees” historiography means Jewish Hungarian students who studied abroad in the interwar period because of antisemitic discrimination back home. Yet, students expelled because of communist activism, belong to this category too. The here proposed paper will present the activity and historical legacy of communist emigrant students from Hungary in the First Czechoslovak Republic.
 
-[![](/assets/images/0001-2-724x1024.jpg)](https://www.unlikely-refuge.eu/wp-content/uploads/2021/10/radikalni_levice_program_en.pdf)
+[![](../../../../assets/images/0001-2-724x1024.jpg)](https://www.unlikely-refuge.eu/wp-content/uploads/2021/10/radikalni_levice_program_en.pdf)
 
 To download the program click [here](https://www.unlikely-refuge.eu/wp-content/uploads/2021/10/radikalni_levice_program_en.pdf).

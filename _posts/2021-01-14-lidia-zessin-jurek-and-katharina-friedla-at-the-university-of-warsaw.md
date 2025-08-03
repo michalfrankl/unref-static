@@ -13,4 +13,4 @@ Literature often describes the experience of refugees as an ‘odyssey’. Lidia
 
 ‘Syberiada’ is very dear to the Polish people as it traditionally refers to the martyrdom of Poles sentenced to exile in the depths of Russia and later commemorating their experience mainly via symbols and language related to the Catholic tradition. The book enlarges the meaning of ‘Syberiada’ by casting light on the overlooked experience of Polish wartime refugees of Jewish descent to the USSR who, after their flight, were sent to Siberia. The meaning of the words odyssey, exile, syberiada in the context of Jewish refugees and the consequences of terminological choices were some of the topics discussed at the seminar.
 
-![](/assets/images/Invitation-Seminar-14-01-2021-page-001-724x1024.jpg)
+![](../../../../assets/images/Invitation-Seminar-14-01-2021-page-001-724x1024.jpg)

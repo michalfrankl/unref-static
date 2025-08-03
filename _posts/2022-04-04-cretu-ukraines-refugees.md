@@ -12,4 +12,4 @@ The UnRef's Doina Anca Cretu published an article titled "Ukraine’s Refugees a
 
 You can access the full text [here](http://newfascismsyllabus.com/contributions/ukraines-refugees-and-the-muddy-waters-of-aid-some-early-thoughts/) in English.
 
-[![](/assets/images/Anca-blog.png)](http://newfascismsyllabus.com/contributions/ukraines-refugees-and-the-muddy-waters-of-aid-some-early-thoughts/)
+[![](../../../../assets/images/Anca-blog.png)](http://newfascismsyllabus.com/contributions/ukraines-refugees-and-the-muddy-waters-of-aid-some-early-thoughts/)

@@ -7,7 +7,7 @@ categories:
   - "presentations"
 ---
 
-[![](/assets/images/DHIP.png)](https://www.dhi-paris.fr/de/veranstaltungsdetails/seminare/SeminarTime/detail/staatsbuergerschaft-norm-und-praxis-politischer-zugehoerigkeit-im-europa-der-zwischenkriegszeit3748.html)
+[![](../../../../assets/images/DHIP.png)](https://www.dhi-paris.fr/de/veranstaltungsdetails/seminare/SeminarTime/detail/staatsbuergerschaft-norm-und-praxis-politischer-zugehoerigkeit-im-europa-der-zwischenkriegszeit3748.html)
 
 We invite you to join the hybrid event titled _Staatsbürgerschaft: Norm und Praxis politischer Zugehörigkeit im Europa, 1914–1945_, organized by the German Historical Institute Paris (DHIP) on April 11, 2022, at 6-8 p.m. (CET).
 

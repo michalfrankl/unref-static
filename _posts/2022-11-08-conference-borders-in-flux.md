@@ -18,4 +18,4 @@ L-4366 Esch-sur-Alzette
 
 and online; for registration please visit the [website](https://www.c2dh.uni.lu/events/borders-flux-and-border-temporalities-and-beyond-europe).
 
-![Borders In Flux and Border Temporalities In and Beyond Europe](/assets/images/border_conf_eventposter_web.png)
+![Borders In Flux and Border Temporalities In and Beyond Europe](../../../../assets/images/border_conf_eventposter_web.png)

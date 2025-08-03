@@ -14,4 +14,4 @@ The one-day session focused on the question: "Why is there so little talk about 
 
 Programme of the conference can be accessed [here](https://www.uni.lodz.pl/fileadmin/user_upload/Konferencje/KONFERENCJA_KOMITETU_BADA%C5%83_NAD_MIGRACJAMI/kbnm2022program.pdf).
 
-![](/assets/images/lidia-1024x768.png)
+![](../../../../assets/images/lidia-1024x768.png)

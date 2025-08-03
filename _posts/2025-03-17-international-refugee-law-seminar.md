@@ -14,4 +14,4 @@ Histories of refugee hosting in post-WWII Europe rarely focus on the Soviet regi
 
 For more information and registration click [here](https://rli.sas.ac.uk/events/unsung-asylum-law-and-practice-refugee-hosting-communist-and-authoritarian-states)
 
-![](/assets/images/2025-03-17_tohma_refugee_law_seminar.png)
+![](../../../../assets/images/2025-03-17_tohma_refugee_law_seminar.png)

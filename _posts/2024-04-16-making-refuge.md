@@ -12,12 +12,12 @@ On 11-12 April 2024, the "Making Refuge: Place and Space in Refugee Studies" Wor
 
 The event brought together 20 presenters and 8 chairs coming from all around the world with final remarks delivered by Peter Gatrell (University of Manchester). You can download the [program](https://www.unlikely-refuge.eu/wp-content/uploads/2024/04/Making-Refuge-Program.pdf) and the list of all [abstracts](https://www.unlikely-refuge.eu/wp-content/uploads/2024/04/Making-Refuge-List-of-abstracts.pdf) in pdf.
 
-- ![](/assets/images/20240411_124226-min-1024x768.jpg)
+- ![](../../../../assets/images/20240411_124226-min-1024x768.jpg)
     
-- ![](/assets/images/20240411_140143-min-1024x768.jpg)
+- ![](../../../../assets/images/20240411_140143-min-1024x768.jpg)
     
-- ![](/assets/images/20240411_165113-min-1024x768.jpg)
+- ![](../../../../assets/images/20240411_165113-min-1024x768.jpg)
     
-- ![](/assets/images/20240412_093606-min-1024x768.jpg)
+- ![](../../../../assets/images/20240412_093606-min-1024x768.jpg)
     
-- ![](/assets/images/20240412_171125-min-1024x768.jpg)
+- ![](../../../../assets/images/20240412_171125-min-1024x768.jpg)

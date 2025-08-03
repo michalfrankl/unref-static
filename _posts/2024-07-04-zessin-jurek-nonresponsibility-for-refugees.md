@@ -12,4 +12,4 @@ In the new issue of the journal "Migration Studies - Review of Polish Diaspora" 
 
 You can find her text "(Non)responsibility for Refugees – Communicating about the Belarusian-Polish Border (2021–2023)" [here](https://ejournals.eu/en/journal/smpp/article/non-responsibility-for-refugees-communicating-about-the-belarusian-polish-border-2021-2023).
 
-![](/assets/images/2024-07-04_zessin-jurek_nonresponsibility.jpg)
+![](../../../../assets/images/2024-07-04_zessin-jurek_nonresponsibility.jpg)

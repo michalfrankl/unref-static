@@ -95,4 +95,4 @@ Greeting Statements
 
 12.00 – 14.00 Lunch and Closing Discussion
 
-![](/assets/images/loga-1024x178.jpg)
+![](../../../../assets/images/loga-1024x178.jpg)

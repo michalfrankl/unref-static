@@ -8,7 +8,7 @@ categories:
 coverImage: "SIMON_screenshot.png"
 ---
 
-![](/assets/images/SIMON_screenshot.png)
+![](../../../../assets/images/SIMON_screenshot.png)
 
 The _Unlikely Refuge?_ ERC project's Principal Investigator Michal Frankl published his new article titled "Citizenship of No Man’s Land? Jewish Refugee Relief in Zbąszyń and East-Central Europe, 1938–1939" in the last issue of the [S:I.M.O.N. Shoah: Intervention. Methods. Documentation (02/2020)](https://simon.vwi.ac.at/index.php/simon/issue/view/15), the open-access journal of the [Vienna Wiesenthal Institute for Holocaust Studies.](https://vwi.ac.at/)
 

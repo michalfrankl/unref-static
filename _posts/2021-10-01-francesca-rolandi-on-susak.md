@@ -8,7 +8,7 @@ categories:
 coverImage: "antifasizam_vodoravno.jpg"
 ---
 
-[![](/assets/images/antifasizam_vodoravno-1024x536.jpg)](https://www.unipu.hr/ckpis/socijalizam_na_klupi/2021)
+[![](../../../../assets/images/antifasizam_vodoravno-1024x536.jpg)](https://www.unipu.hr/ckpis/socijalizam_na_klupi/2021)
 
 Francesca Rolandi (_Unlikely Refuge?_) will take part in the 5th International Conference entitled Socialism on the Bench, organized by the Center for Cultural and Historical Research of Socialism at the Juraj Dobrila University of Pula, September 30 - October 2, 2021. 
 

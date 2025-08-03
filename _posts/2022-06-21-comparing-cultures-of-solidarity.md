@@ -12,4 +12,4 @@ Nikola Karasová and Julia Reinke presented today their joint paper entitled “
 
 For more information, please visit the conference [website](https://www.crassh.cam.ac.uk/events/32109/).
 
-![](/assets/images/20180204_144558-1-e1646149024202-740x740-1.jpg)
+![](../../../../assets/images/20180204_144558-1-e1646149024202-740x740-1.jpg)

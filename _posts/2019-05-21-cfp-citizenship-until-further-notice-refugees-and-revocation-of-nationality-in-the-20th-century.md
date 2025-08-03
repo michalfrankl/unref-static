@@ -20,7 +20,7 @@ Michal Frankl, Masaryk Institute and Archives of the Czech Academy of Sciences, 
 Deadline for the submission of abstracts extended until July 20, 2019!
 ```
 
-![](/assets/images/aI3rVZtBKH03qCPXhllRd1-6HlcUq6ik9ggfqtzfFIZ7Nhr87GkqhlQPBwzRQPJKjVEmBybkAUpfm4c1BslkL_2IrBK55z82npLHuCRPSdFBHSMF05pDh_bIHmlP3Dlg00cFKcWq)
+![](../../../../assets/images/aI3rVZtBKH03qCPXhllRd1-6HlcUq6ik9ggfqtzfFIZ7Nhr87GkqhlQPBwzRQPJKjVEmBybkAUpfm4c1BslkL_2IrBK55z82npLHuCRPSdFBHSMF05pDh_bIHmlP3Dlg00cFKcWq)
 
 Statelessness has been recognized as one of the major maladies of the 20th century. Historians, lawyers, political philosophers and others took a critical aim at the the exclusionary power of the nation state and decried the position of those stripped of their passport and rights. A stateless refugee, without state protection and possibly relying on a “Nansen passport”, become the symbol of exclusion from polity. The revocation of citizenship was no inconsequential step and could equal to decision about life and death.  
 

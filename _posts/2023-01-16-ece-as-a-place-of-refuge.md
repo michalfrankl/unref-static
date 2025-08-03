@@ -8,7 +8,7 @@ categories:
 coverImage: "journalThumbnail_de_DE.jpg"
 ---
 
-[![](/assets/images/journalThumbnail_de_DE.jpg)](https://www.zfo-online.de/portal/index.php/zfo/issue/view/294)
+[![](../../../../assets/images/journalThumbnail_de_DE.jpg)](https://www.zfo-online.de/portal/index.php/zfo/issue/view/294)
 
 The _Unlikely Refuge?_ (UnRef) team members contributed to the thematical issue of the Journal of East Central European Studies (ZfO/JECES), Vol. 71 No. 4 (2022), entitled _East Central Europe as a Place of Refuge in the Twentieth Century: State and Patterns of Historical Research_. The individual contributions can be accessed [here](https://www.zfo-online.de/portal/index.php/zfo/issue/view/294).
 

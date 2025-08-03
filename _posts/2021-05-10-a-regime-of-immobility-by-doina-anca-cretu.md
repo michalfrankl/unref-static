@@ -15,7 +15,7 @@ You can read her article online [here](https://www.historyworkshop.org.uk/a-regi
 
 <figure>
 
-![](/assets/images/Figure2_Landegg.jpeg)
+![](../../../../assets/images/Figure2_Landegg.jpeg)
 
 <figcaption>
 

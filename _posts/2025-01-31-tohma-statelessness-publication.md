@@ -14,4 +14,4 @@ _**Reimagining Citizenship in Postwar Europe**_ maps the generation and growth 
 
 The entire book is available as [open-access](https://www.cornellpress.cornell.edu/book/9781501779190/reimagining-citizenship-in-postwar-europe/ and is also available Open Access.).
 
-![](/assets/images/Reimagining-Citizenship-Book-Launch-663x1024.jpeg)
+![](../../../../assets/images/Reimagining-Citizenship-Book-Launch-663x1024.jpeg)

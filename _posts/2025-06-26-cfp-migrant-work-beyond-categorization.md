@@ -35,6 +35,6 @@ Paper proposals (max. 250 words) and short bios (200 words), as well as any ques
 
 The decision on acceptance will be communicated by the end of August. The organizers will offer financial support for travel and accommodation.
 
-![](/assets/images/logo_MSMT_EU.png)
+![](../../../../assets/images/logo_MSMT_EU.png)
 
-![](/assets/images/logo_MUA_black.png)
+![](../../../../assets/images/logo_MUA_black.png)

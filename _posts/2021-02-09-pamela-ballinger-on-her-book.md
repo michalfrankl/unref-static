@@ -20,4 +20,4 @@ For more information please visit the workshop [website](http://cas.uniri.hr/cas
 Meeting ID: 865 3732 1636  
 Passcode: 193681
 
-- ![](/assets/images/Obrazek1-1.png)
+- ![](../../../../assets/images/Obrazek1-1.png)

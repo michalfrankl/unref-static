@@ -7,4 +7,4 @@ categories:
   - "presentations"
 ---
 
-![](/assets/images/Graf-2020-Drifting-Westward-East-Germany-and-Integrated-Eur-page-001-724x1024.jpg)
+![](../../../../assets/images/Graf-2020-Drifting-Westward-East-Germany-and-Integrated-Eur-page-001-724x1024.jpg)

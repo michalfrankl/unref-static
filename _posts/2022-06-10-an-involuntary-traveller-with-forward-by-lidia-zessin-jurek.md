@@ -12,4 +12,4 @@ _In this interpretation of his family’s refugee trajectory of survival, Yoram 
 
 Lidia Zessin-Jurek (UnRef) in her [Foreword](https://www.unlikely-refuge.eu/wp-content/uploads/2022/06/Eckstein-Zessin-Jurek_Foreword.pdf) to the memoir of a Jewish child refugee from occupied Poland, which has just appeared in print: Yoram Eckstein, An Involuntary Traveler. A Memoir from the First Twenty Years, Dorrance Publishing 2022.
 
-[![](/assets/images/COVER-683x1024.jpg)](https://www.unlikely-refuge.eu/wp-content/uploads/2022/06/Eckstein-Zessin-Jurek_Foreword.pdf)
+[![](../../../../assets/images/COVER-683x1024.jpg)](https://www.unlikely-refuge.eu/wp-content/uploads/2022/06/Eckstein-Zessin-Jurek_Foreword.pdf)

@@ -16,7 +16,7 @@ tags:
 coverImage: "SIMON_screenshot.png"
 ---
 
-![](/assets/images/SIMON_screenshot.png)
+![](../../../../assets/images/SIMON_screenshot.png)
 
 The last issue of [S:I.M.O.N. – Shoah: Intervention. Methods. DocumentatiON](https://simon.vwi.ac.at/index.php/simon) (2018/2), the open-access journal published by the [Vienna Wiesenthal Institute for Holocaust Studies](https://vwi.ac.at/), includes a section on refugees in East-Central Europe prepared by guest editors Michal Frankl and Wolfgang Schellenbacher. The articles, listed below, originate from the workshop “Refugees and Citizens. New Nation States as Places of Asylum, 1914–1941” organised by the host editors together with the Wiesenthal Institute in June 2016 ([see the original programme here](http://www.vwi.ac.at/images/Veranstaltungen/SWW/2016_Refugees-and-Citizens/Einladung-Refugees_WEB.pdf)).
 

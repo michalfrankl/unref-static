@@ -12,4 +12,4 @@ Images of refugees being trapped at the eastern Polish border have evoked memori
 
 You can read the full text [here](https://www.cultures-of-history.uni-jena.de/poland/trapped-in-no-mans-land-comparing-refugee-crises).
 
-![](/assets/images/Photo_Trapped-in-the-No-Mans-Land.jpg)
+![](../../../../assets/images/Photo_Trapped-in-the-No-Mans-Land.jpg)

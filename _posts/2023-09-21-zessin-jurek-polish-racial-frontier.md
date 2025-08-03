@@ -18,6 +18,6 @@ On 6-8 September 2023, the European University Viadrina held a conference „Con
 
 For more information, please visit the conference [program](https://www.borders-in-motion.de/en/conference-2023/Conference-Program/index.html).
 
-- ![](/assets/images/F5c-2btWgAAiEY4-1-1024x768.jpg)
+- ![](../../../../assets/images/F5c-2btWgAAiEY4-1-1024x768.jpg)
     
-- ![](/assets/images/F5fAjfzXUAAXOJ9-1-1024x768.jpg)
+- ![](../../../../assets/images/F5fAjfzXUAAXOJ9-1-1024x768.jpg)

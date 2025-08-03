@@ -15,4 +15,4 @@ The conference takes place in Bucharest, Romania, as well as online via Zoom.
 
 For details please click [here](https://nec.ro/events/minorities-at-war-from-napoleon-to-putin-basees-study-group-for-minority-history-biennial-conference-2023/?fbclid=IwAR3VUN9eOkLFTmwgHEKuGlcgtfg-gyvXdy-kSBsACWxugJA9yX5n8EAcojA).
 
-[![](/assets/images/4c_logo_basees-study-group-for-minority-history.jpg)](https://nec.ro/events/minorities-at-war-from-napoleon-to-putin-basees-study-group-for-minority-history-biennial-conference-2023/?fbclid=IwAR3VUN9eOkLFTmwgHEKuGlcgtfg-gyvXdy-kSBsACWxugJA9yX5n8EAcojA)
+[![](../../../../assets/images/4c_logo_basees-study-group-for-minority-history.jpg)](https://nec.ro/events/minorities-at-war-from-napoleon-to-putin-basees-study-group-for-minority-history-biennial-conference-2023/?fbclid=IwAR3VUN9eOkLFTmwgHEKuGlcgtfg-gyvXdy-kSBsACWxugJA9yX5n8EAcojA)

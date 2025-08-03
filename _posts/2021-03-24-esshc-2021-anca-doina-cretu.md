@@ -16,7 +16,7 @@ _The First World War led to an unprecedented refugee crisis, primarily caused by
 
 <figure>
 
-![](/assets/images/1127AE2D)
+![](../../../../assets/images/1127AE2D)
 
 <figcaption>
 

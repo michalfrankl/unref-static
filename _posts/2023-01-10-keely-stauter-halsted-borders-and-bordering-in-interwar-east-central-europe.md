@@ -7,7 +7,7 @@ categories:
 coverImage: "keely_talk_img.png"
 ---
 
-![](/assets/images/keely_talk_img.png)
+![](../../../../assets/images/keely_talk_img.png)
 
 Please join us for the talk by
 

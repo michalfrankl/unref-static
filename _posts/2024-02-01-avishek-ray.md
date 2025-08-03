@@ -8,4 +8,4 @@ categories:
 coverImage: "OU_plakat-Avishek-Ray-AJ-UPDATED-1-2-2024_page-0001.jpg"
 ---
 
-- ![](/assets/images/OU_plakat-Avishek-Ray-AJ-UPDATED-1-2-2024_page-0001-724x1024.jpg)
+- ![](../../../../assets/images/OU_plakat-Avishek-Ray-AJ-UPDATED-1-2-2024_page-0001-724x1024.jpg)

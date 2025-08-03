@@ -14,4 +14,4 @@ The article was published in the J_ournal of Modern History_ (vol. 94, no. 2 (20
 
 For download please visit the journal's [website](https://www.journals.uchicago.edu/doi/epdf/10.1086/719447).
 
-![](/assets/images/DSCN4052-1024x862.jpg)
+![](../../../../assets/images/DSCN4052-1024x862.jpg)

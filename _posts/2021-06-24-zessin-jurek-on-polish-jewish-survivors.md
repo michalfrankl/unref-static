@@ -11,6 +11,6 @@ Lidia Zessin-Jurek (_Unlikely Refuge?_) participated at a conference _Between Wa
 
 You can watch her talk on [YouTube](http://www.youtube.com/watch?v=S8KhkusMYos) (time 01:05:27).
 
-[![](/assets/images/0001-724x1024.jpg)](https://www.unlikely-refuge.eu/wp-content/uploads/2021/07/22-24.6.21-Lidia.pdf)
+[![](../../../../assets/images/0001-724x1024.jpg)](https://www.unlikely-refuge.eu/wp-content/uploads/2021/07/22-24.6.21-Lidia.pdf)
 
-[![](/assets/images/0002-1-724x1024.jpg)](https://www.unlikely-refuge.eu/wp-content/uploads/2021/07/22-24.6.21-Lidia.pdf)
+[![](../../../../assets/images/0002-1-724x1024.jpg)](https://www.unlikely-refuge.eu/wp-content/uploads/2021/07/22-24.6.21-Lidia.pdf)

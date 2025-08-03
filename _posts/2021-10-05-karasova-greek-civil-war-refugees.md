@@ -12,7 +12,7 @@ Nikola Karasová (_Unlikely Refuge?_) participated in the 59th International Aca
 
 Please visit the workshop's [website](https://www.sogde.org/de/events/59th-international-academic-week/) or download its entire [program](https://www.unlikely-refuge.eu/wp-content/uploads/2021/10/Program_59th-International-Academic-Week-2021.pdf). The event is partially accessible to the public.
 
-![](/assets/images/presentation-Tutzing.png)
+![](../../../../assets/images/presentation-Tutzing.png)
 
 Here is the abstract of Nikola's talk:
 
@@ -22,8 +22,8 @@ Besides, scholars dedicated considerable attention to the humanitarian efforts p
 
 The proposed paper focuses on these ambiguities in the memory of the Greek Civil War refugees in Czechoslovakia, which persist until the present day. Looking at personal accounts, archival sources and related literature, the paper investigates the political and humanitarian facets of the provided Czechoslovak aid. It discusses whether it is possible to delimit them as separate entities and to what extent it is possible to analyse the topic without taking both perspectives into consideration.
 
-- ![](/assets/images/2im.jpg)
+- ![](../../../../assets/images/2im.jpg)
     
-- ![](/assets/images/3im.jpg)
+- ![](../../../../assets/images/3im.jpg)
     
-- ![](/assets/images/4im.jpg)
+- ![](../../../../assets/images/4im.jpg)

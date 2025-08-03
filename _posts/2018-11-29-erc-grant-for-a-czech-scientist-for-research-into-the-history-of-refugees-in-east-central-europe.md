@@ -20,7 +20,7 @@ A place to leave?**
 
 Over the next 5 years, Frankl will lead an international team of historians comparing the way in which refugees were defined and discussed, categorised and received in Poland, Czechoslovakia, Austria, Hungary and Yugoslavia (and their successor states). The results of the grant will be a book publication and a series of studies, but also workshops, conferences and the proceedings created from them.
 
-\[caption id="attachment\_54" align="alignnone" width="744"\]![](/assets/images/1480626_edited2.jpg) Albert Hilscher: Arrival of Hungarian refugees to the refugee camp in Traiskirchen, Austria in 1956 (Austrian National Library).\[/caption\]
+\[caption id="attachment\_54" align="alignnone" width="744"\]![](../../../../assets/images/1480626_edited2.jpg) Albert Hilscher: Arrival of Hungarian refugees to the refugee camp in Traiskirchen, Austria in 1956 (Austrian National Library).\[/caption\]
 
 “The project aims to write refugees back into the history of East-Central Europe in the 20th century,” writes Frankl in his ERC application, which he prepared for two years. According to the historian we mostly perceived East-Central Europe of the 20th century as place to leave rather than a refuge. Moreover, the individual groups of refugees were seen by contemporaries and later historians mainly as isolated political and national exile groups.
 

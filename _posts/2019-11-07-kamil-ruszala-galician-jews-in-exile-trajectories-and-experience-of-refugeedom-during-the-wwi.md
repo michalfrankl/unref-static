@@ -7,7 +7,7 @@ categories:
   - "presentations"
 ---
 
-![](/assets/images/Ruszala.png)
+![](../../../../assets/images/Ruszala.png)
 
 Special Lessons & Legacies Conference Munich | November 4-7, 2019 The Holocaust in Europe Research Trends, Pedagogical Approaches, and Political Challenges
 

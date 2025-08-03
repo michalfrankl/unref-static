@@ -7,7 +7,7 @@ categories:
   - "conferences-and-workshops"
 ---
 
-[![](/assets/images/Obrazek1.png)](https://www.hsozkult.de/conferencereport/id/tagungsberichte-9035)
+[![](../../../../assets/images/Obrazek1.png)](https://www.hsozkult.de/conferencereport/id/tagungsberichte-9035)
 
 By Doina Anca Cretu / Francesca Rolandi, Masaryk Institute and Archives of the Czech Academy of Sciences
 

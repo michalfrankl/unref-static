@@ -7,4 +7,4 @@ categories:
   - "presentations"
 ---
 
-![](/assets/images/WeRf_POLIN-Workshop_Programm_19-10-17-page-001-1-712x1024.jpg)
+![](../../../../assets/images/WeRf_POLIN-Workshop_Programm_19-10-17-page-001-1-712x1024.jpg)

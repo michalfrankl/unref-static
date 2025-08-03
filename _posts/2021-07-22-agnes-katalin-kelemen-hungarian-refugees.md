@@ -9,7 +9,7 @@ categories:
 
 On 22 July 2021, Ágnes Katalin Kelemen (_Unlikely Refuge?_) participated at an online conference _Jewish Crossroads: Between Italy and Eastern Europe_, organized by the Center for Jewish Art at the Hebrew University of Jerusalem and by the Fondazione Per i Beni Culturali Ebraici in Italia. She gave a talk on _Hungarian Refugees from Antisemitism in Fascist Italy_.
 
-![](/assets/images/Kelemen_Antisem_Conf.png)
+![](../../../../assets/images/Kelemen_Antisem_Conf.png)
 
 **Refugees from Antisemitism in Fascist Italy  
 **By Ágnes Katalin Kelemen

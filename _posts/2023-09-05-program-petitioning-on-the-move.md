@@ -11,6 +11,6 @@ International workshop "Petitioning on the Move" will take place on 19-20 Septem
 
 The workshop is organized in cooperation with the [Unlikely refuge?](https://unlikely-refuge.eu/) and [Nepostrans](https://1918local.eu/) ERC-funded projects.
 
-![](/assets/images/Petitioning-on-the-Move_Preliminary-program_page-0001-791x1024.jpg)
+![](../../../../assets/images/Petitioning-on-the-Move_Preliminary-program_page-0001-791x1024.jpg)
 
-![](/assets/images/Petitioning-on-the-Move_Preliminary-program_page-0002-791x1024.jpg)
+![](../../../../assets/images/Petitioning-on-the-Move_Preliminary-program_page-0002-791x1024.jpg)

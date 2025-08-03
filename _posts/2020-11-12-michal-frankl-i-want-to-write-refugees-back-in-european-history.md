@@ -7,7 +7,7 @@ categories:
   - "media"
 ---
 
-![](/assets/images/Frankl_TITUL-1106x553-728484131-1024x512.jpg)
+![](../../../../assets/images/Frankl_TITUL-1106x553-728484131-1024x512.jpg)
 
 Photo: Radek Miča, Universitas
 

@@ -9,4 +9,4 @@ categories:
 
 On November 6, 2021, Lidia Zessin-Jurek (UnRef) gave a public talk at the scientific session during the celebration of the 75th anniversary of the post-war transfer of population from Polesie to Western Poland. She presented a comparative text (in Polish): _Inpatriation? Postwar homeward migrations in European collective memory - the case of German "expellees" and Polish "repatriates"._
 
-![](/assets/images/Presentation_Polesie-1024x576.jpg)
+![](../../../../assets/images/Presentation_Polesie-1024x576.jpg)

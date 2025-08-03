@@ -13,4 +13,4 @@ The panel zoomed in on a relatively narrow territory and a short time span in or
 
 For the conference program, please click [here](https://www.aseees.org/sites/default/files/downloads/ASEEES%202021%20Virtual%20Program%20final.pdf).
 
-[![](/assets/images/aseees2021.png)](https://www.aseees.org/sites/default/files/downloads/ASEEES%202021%20Virtual%20Program%20final.pdf)
+[![](../../../../assets/images/aseees2021.png)](https://www.aseees.org/sites/default/files/downloads/ASEEES%202021%20Virtual%20Program%20final.pdf)

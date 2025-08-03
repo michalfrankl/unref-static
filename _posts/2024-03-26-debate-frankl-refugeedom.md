@@ -16,4 +16,4 @@ In which sense is the current situation of refugees particular? What are the spe
 
 For more information please visit the organizer's [website](https://dominikanska8.cz/akce/624/uprchlictvi-historie-soucasnost-a-globalni-kontext).
 
-![](/assets/images/2024-03-26-debate-frankl-refugeedom.png)
+![](../../../../assets/images/2024-03-26-debate-frankl-refugeedom.png)

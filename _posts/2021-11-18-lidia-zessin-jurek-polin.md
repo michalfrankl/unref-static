@@ -12,4 +12,4 @@ The refugee situation unfolding on the Polish-Belarusian border is reminiscent o
 
 For more information please visit the Facebook [event](https://www.facebook.com/events/475611527083156?ref=newsfeed) or Polin's [website](https://www.polin.pl/pl/wydarzenie/migranci-na-granicy-1938-1939-2021).
 
-[![](/assets/images/polin.png)](https://www.polin.pl/pl/wydarzenie/migranci-na-granicy-1938-1939-2021)
+[![](../../../../assets/images/polin.png)](https://www.polin.pl/pl/wydarzenie/migranci-na-granicy-1938-1939-2021)

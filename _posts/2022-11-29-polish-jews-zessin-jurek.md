@@ -10,9 +10,9 @@ coverImage: "Krakow-Institute-Jewish-Studies.jpg"
 
 To mark the 100th anniversary of the birth of Józef Gierowski, the precursor of post-war Judaic studies at Polish universities, an online-format conference was organized by the Institute of Jewish Studies, Jagiellonian University on 22.-23.11.2022: "Żydzi polscy w oczach historków - nowe perspektywy" \[Polish Jews in the Eyes of Historians - New Perspectives\] . During the conference, the aim of which was to reflect methodologically on the state of Jewish research in Poland, Lidia Zessin-Jurek (_Unlikely Refuge?_), at the invitation of Dr Edyta Gawron, spoke about hitherto untapped avenues of applying refugee studies to the analysis of wartime history of Polish Jews.
 
-- ![](/assets/images/Gawron.png)
+- ![](../../../../assets/images/Gawron.png)
     
-- ![](/assets/images/Krakow-Institute-Jewish-Studies.jpg)
+- ![](../../../../assets/images/Krakow-Institute-Jewish-Studies.jpg)
     
 
 **Panel VIII** chaired by Dr Edyta Gawron
