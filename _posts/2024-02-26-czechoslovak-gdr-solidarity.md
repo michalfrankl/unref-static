@@ -1,0 +1,12 @@
+---
+layout: post
+title: "“Like we would help brothers or sisters”? A new article by Nikola Tohma and Julia Reinke"
+date: 2024-02-26
+categories: 
+  - "all"
+  - "publications"
+---
+
+The International Review of Social History published the article _[“Like we would help brothers or sisters”? Practising Solidarity with Greek Civil War Refugees in Socialist Czechoslovakia and the GDR in the Shadow of World War II](https://www.cambridge.org/core/journals/international-review-of-social-history/article/like-we-would-help-brothers-or-sisters-practising-solidarity-with-greek-civil-war-refugees-in-socialist-czechoslovakia-and-the-gdr-in-the-shadow-of-world-war-ii/F82831EAA9D76D4BF33FE1B5A1327B56#article)_ co-authored by UnRef researchers Nikola Tohma and Julia Reinke.
+
+The article investigates the solidarity campaigns supporting refugees from the Greek Civil War (1946–1949) in post-war Czechoslovakia and the emerging German Democratic Republic. Framed as an important bridge between the interwar and later Cold War forms of socialist internationalism, this case sheds light on its transitory character, revealing the narrative shift from anti-fascist to anti-imperialist contexts and the increasingly institutionalized and ritualized solidarity. Thus, not only was practising solidarity already an integral part of post-war socialist regimes, but it also served a variety of functions, contributing to the legitimization and identity of the Eastern bloc. Based on archival documents and press, the article uncovers the deployment of analogical institutional structures employed by both states, thus opening up the sphere of interaction with their citizens, mobilized to become involved in various ways. The two countries, however, departed from different positions, dealing with opposing legacies of the wartime experience, which influenced the motivations employed in their campaigns. Entangled in discourses of guilt, heroism, and victimhood, yet aligned under the proclaimed values of socialist brotherhood and anti-fascism, building internationalist solidarity in both countries worked alongside and even boosted attempts to overcome the obstacle of the Nazi past, both internally and in their mutual relationship. This article thus contributes to a better understanding of how internationalist solidarity functioned as a platform to build bridges – not only towards the “South”, but also within the Eastern bloc.
